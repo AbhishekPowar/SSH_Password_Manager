@@ -1,12 +1,15 @@
-Connect | cn
+# Connect | cn
 
 NAME
+
        cn - connect
 
 SYNOPSIS
+
        cn [OPTION] machineName
 
 DESCRIPTION
+
        	-a, --all
 		Usage: cn -a
               	Show all Machine name with their IP Address
